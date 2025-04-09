@@ -1,2 +1,2 @@
 class Url:
-    DOMAIN = 'https://afisha.yandex.ru/'
+    DOMAIN = 'https://ru.stapetest.xyz/login'
